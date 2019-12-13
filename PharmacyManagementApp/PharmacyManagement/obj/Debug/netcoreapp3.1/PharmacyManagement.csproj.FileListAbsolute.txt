@@ -1,0 +1,11 @@
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.exe
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.deps.json
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.runtimeconfig.json
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.runtimeconfig.dev.json
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.dll
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\bin\Debug\netcoreapp3.1\PharmacyManagement.pdb
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\obj\Debug\netcoreapp3.1\PharmacyManagement.csprojAssemblyReference.cache
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\obj\Debug\netcoreapp3.1\PharmacyManagement.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\obj\Debug\netcoreapp3.1\PharmacyManagement.AssemblyInfo.cs
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\obj\Debug\netcoreapp3.1\PharmacyManagement.dll
+C:\Users\farid\Desktop\PharmacyManagementApp\PharmacyManagement\obj\Debug\netcoreapp3.1\PharmacyManagement.pdb
